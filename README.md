@@ -4,14 +4,15 @@ I build tools that turn fuzzy problems into clear decisions.
 
 ---
 
-**绳墨** — [binbin2896/sheng-mo](https://github.com/binbin2896/sheng-mo)
-思维工具链。从信息提炼到执行落地，一条完整的思考方法论。
+### [绳墨](https://github.com/binbin2896/sheng-mo) — 思维工具链
 
-├─ [钩玄](https://github.com/binbin2896/sheng-mo/tree/main/gou-xuan) — 信息提炼
-├─ [纲目](https://github.com/binbin2896/sheng-mo/tree/main/gang-mu) — 方向判断
-├─ [执要](https://github.com/binbin2896/sheng-mo/tree/main/zhi-yao) — 优先级排序
-├─ [拷问](https://github.com/binbin2896/sheng-mo/tree/main/kao-wen) — 压力测试
-└─ [笃行](https://github.com/binbin2896/sheng-mo/tree/main/du-xing) — 执行落地
+从信息提炼到执行落地，一条完整的思考方法论。
+
+- [钩玄](https://github.com/binbin2896/sheng-mo/tree/main/gou-xuan) — 信息提炼
+- [纲目](https://github.com/binbin2896/sheng-mo/tree/main/gang-mu) — 方向判断
+- [执要](https://github.com/binbin2896/sheng-mo/tree/main/zhi-yao) — 优先级排序
+- [拷问](https://github.com/binbin2896/sheng-mo/tree/main/kao-wen) — 压力测试
+- [笃行](https://github.com/binbin2896/sheng-mo/tree/main/du-xing) — 执行落地
 
 ---
 
