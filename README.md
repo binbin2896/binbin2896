@@ -4,7 +4,15 @@ I build tools that turn fuzzy problems into clear decisions.
 
 ---
 
-### [绳墨](https://github.com/binbin2896/sheng-mo) — 思维工具链
+### ⚖️ [经纬](https://github.com/binbin2896/zhongcai-skills) — 仲裁执业技能链
+
+面向仲裁员和法务从业者的 AI Agent Skill 集合，覆盖案件处理全流程。
+
+```
+阅卷 → 问庭 → 裁笔 → 校核 → 防讼 → 案归
+```
+
+### 🧠 [绳墨](https://github.com/binbin2896/sheng-mo) — 思维工具链
 
 从信息提炼到执行落地，一条完整的思考方法论。
 
