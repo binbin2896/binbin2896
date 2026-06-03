@@ -4,6 +4,16 @@ I build tools that turn fuzzy problems into clear decisions.
 
 ---
 
+### 🔍 [Sequential Thinking](https://github.com/binbin2896/sequential-thinking-skill) — 深度思考引擎
+
+结构化推理与自检框架，**绳墨链的底层推理内核**。六条铁律、四轮迭代、事实验证、错误修正。
+
+```
+🎯 抓住主要矛盾 → 📝 列出提纲 → 🔄 四轮迭代 → 🛑 检查点验证 → ✅ 交付自检
+```
+
+---
+
 ### ⚖️ [经纬](https://github.com/binbin2896/zhongcai-skills) — 仲裁执业技能链
 
 面向仲裁员和法务从业者的 AI Agent Skill 集合，覆盖案件处理全流程。
